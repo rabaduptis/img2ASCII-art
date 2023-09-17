@@ -4,5 +4,4 @@ Demo application for Android that converts the **PNG** file received from **web 
 
 
 ## Images
-
-
+![Uygulama Ekran Görüntüsü](https://github.com/rabaduptis/img2ASCII-art/blob/main/sample_screenshot.png?width=600&height=300)
